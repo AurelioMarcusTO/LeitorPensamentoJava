@@ -1,4 +1,4 @@
 # LeitorPensamentoJava
 Jogo de leitura de pensamento feito em Java
 
-![Screenshot](ProgLeitorPensamento.jpg)
+<img src="ProgLeitorPensamento.jpg" alt="ProgramaLeitorPensamento"/>
